@@ -1,0 +1,14 @@
+---
+  # Result files
+  RESULTS_DIR: "/home/v-peihuamai/amlt-msra/unlearning/results"
+
+  # Data files
+  DATA_DIR: "/home/v-peihuamai/amlt-msra/unlearning/data"
+  STATS_DIR: "/home/v-peihuamai/amlt-msra/unlearning/data/stats"
+  KV_DIR: "/home/v-peihuamai/amlt-msra/unlearning/share/projects/rewriting-knowledge/kvs"
+
+  # Hyperparameters
+  HPARAMS_DIR: "/home/v-peihuamai/amlt-msra/unlearning/memit/hparams"
+
+  # Remote URLs
+  REMOTE_ROOT_URL: "https://memit.baulab.info"
